@@ -32,7 +32,7 @@ class ayuda_estilo extends fs_controller {
    protected function public_core() {
 
    }
-
+//test
    public function shared_extensions(){
       $extensiones = array(
           array(
